@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTestSample-Classic", "JsonTestSample-Classic.csproj", "{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTest-Classic", "..\..\JsonTest\JsonTest-Classic.csproj", "{44682423-C5B5-41AE-8B3B-16078F1B5A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}.Debug|iPhone.Build.0 = Debug|iPhone
+		{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}.Release|iPhone.Build.0 = Release|iPhone
+		{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3B2E1959-44F4-43A8-924B-3E5D29A72AA2}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{44682423-C5B5-41AE-8B3B-16078F1B5A8D}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{44682423-C5B5-41AE-8B3B-16078F1B5A8D}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{44682423-C5B5-41AE-8B3B-16078F1B5A8D}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{44682423-C5B5-41AE-8B3B-16078F1B5A8D}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{44682423-C5B5-41AE-8B3B-16078F1B5A8D}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{44682423-C5B5-41AE-8B3B-16078F1B5A8D}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{44682423-C5B5-41AE-8B3B-16078F1B5A8D}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{44682423-C5B5-41AE-8B3B-16078F1B5A8D}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{44682423-C5B5-41AE-8B3B-16078F1B5A8D}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{44682423-C5B5-41AE-8B3B-16078F1B5A8D}.Release|iPhone.Build.0 = Release|Any CPU
+		{44682423-C5B5-41AE-8B3B-16078F1B5A8D}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{44682423-C5B5-41AE-8B3B-16078F1B5A8D}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = JsonTestSample-Classic.csproj
+	EndGlobalSection
+EndGlobal

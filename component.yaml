@@ -1,0 +1,18 @@
+version: 1.0
+name: JSON Test
+id: jsontest
+publisher: Bill Holmes
+publisher-url: http://mobillholmes.com
+summary: A mobile client wrapper for the JSONTest.com service.
+libraries:
+  ios: source/JsonTest/bin/classic/Release/JsonTest.dll
+packages:
+  ios:
+    - Newtonsoft.Json, Version=6.0.5
+samples:
+  - name: "iOS Classic Sample"
+    path: source/samples/JsonTestSample/JsonTestSample-Classic.sln
+    configuration: "Release|iPhone"
+screenshots:
+  - component/screenshots/screenshot1.jpg
+no_build: false
